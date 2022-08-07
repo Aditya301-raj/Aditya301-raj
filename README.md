@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ...java
 - 🌱 I’m currently learning ... java, MySql
 - 👯 I’m looking to collaborate on ... LaTex
-- 🤔 I’m looking for help with ... MySql
+- 🤔 I’m looking for help with ... MySql,Html
 - 💬 Ask me about ...
 - 📫 How to reach me: ... rajadit016@gamil.com
 - 😄 Pronouns: ... He
